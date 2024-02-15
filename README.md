@@ -1,16 +1,10 @@
 # namer_app
 
-A new Flutter project.
+Flutter App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app generates novel words by combining pairs, featuring a "Favorite" button to add the current word to your favorites list. Access your favorite words through the left menu's "Favorites" page. Enjoy the creative wordplay on the go!
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app not only sparks creativity but is also responsive, ensuring seamless functionality on mobiles, tablets, and laptop screens. Enjoy wordplay effortlessly across various devices!
